@@ -10,15 +10,15 @@ GStreamer-based streaming tool for Insta360 cameras
     ├── Dockerfile
     ├── include
     │   ├── camera
-    │   │   ├── camera.h <-- Make sure to have this file in place
-    │   │   ├── device_discovery.h <-- Make sure to have this file in place
-    │   │   ├── ins_types.h <-- Make sure to have this file in place
-    │   │   └── photography_settings.h <-- Make sure to have this file in place
+    │   │   ├── camera.h # <-- Make sure to have this file in place
+    │   │   ├── device_discovery.h # <-- Make sure to have this file in place
+    │   │   ├── ins_types.h # <-- Make sure to have this file in place
+    │   │   └── photography_settings.h # <-- Make sure to have this file in place
     │   └── stream
-    │       ├── stream_delegate.h <-- Make sure to have this file in place
-    │       └── stream_types.h <-- Make sure to have this file in place
+    │       ├── stream_delegate.h # <-- Make sure to have this file in place
+    │       └── stream_types.h # <-- Make sure to have this file in place
     ├── lib
-    │   └── libCameraSDK.so <-- Make sure to have this file in place
+    │   └── libCameraSDK.so # <-- Make sure to have this file in place
     ├── LICENSE
     ├── README.md
     ├── src
