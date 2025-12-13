@@ -52,3 +52,7 @@ gst-launch-1.0 -v tcpclientsrc host=127.0.0.1 port=5000 ! jpegdec ! videoconvert
 
 $ gst-launch-1.0 -v udpsrc port=5000 ! application/x-rtp,encoding-name=H264 ! rtph264depay ! avdec_h264 ! videoconvert ! autovideosink
 ```
+
+## References
+The project benefited from information shared by the community in the following resource:
+* [ai4ce/insta360_ros_driver](https://github.com/ai4ce/insta360_ros_driver)
